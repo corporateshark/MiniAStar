@@ -2,7 +2,7 @@
 Minimalistic header-only A* pathfinding algorithm implementation in C++14
 --------
 
-# Easy to use:
+## Easy to use:
 
 ```C++
 const char maze[kDim][kDim] = ...;
